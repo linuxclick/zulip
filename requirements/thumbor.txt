@@ -27,7 +27,7 @@ pyasn1==0.4.3             # via pyasn1-modules, python-ldap
 pycryptodome==3.6.1       # via thumbor
 pycurl==7.43.0.2          # via thumbor, tornado-botocore
 python-dateutil==2.7.3    # via botocore, tc-aws
-python-ldap==3.1.0        # via django-auth-ldap
+python-ldap==3.4.5        # via django-auth-ldap
 pytz==2018.4              # via django, thumbor
 singledispatch==3.4.0.3
 six==1.11.0               # via derpconf, libthumbor, python-dateutil, singledispatch, thumbor
