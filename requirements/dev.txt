@@ -136,7 +136,7 @@ pysocks==1.6.7            # via twilio
 python-dateutil==2.6.1
 python-digitalocean==1.13.2
 python-gcm==0.4
-python-ldap==3.1.0        # via django-auth-ldap, pyldap
+python-ldap==3.4.5        # via django-auth-ldap, pyldap
 python-twitter==3.4.2
 python3-openid==3.1.0     # via social-auth-core
 pytz==2018.5
@@ -159,7 +159,7 @@ six==1.11.0
 smmap==0.9.0
 snakeviz==0.4.2
 snowballstemmer==1.2.1
-social-auth-app-django==2.1.0
+social-auth-app-django==5.6.0
 social-auth-core==1.5.0   # via social-auth-app-django
 sockjs-tornado==1.0.3
 sourcemap==0.2.1
