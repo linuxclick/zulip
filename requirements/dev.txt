@@ -183,7 +183,7 @@ virtualenv-clone==0.3.0
 w3lib==1.18.0             # via parsel, scrapy
 wcwidth==0.1.7            # via prompt-toolkit
 websocket-client==0.44.0  # via docker
-werkzeug==0.12.2          # via moto
+werkzeug==3.1.4          # via moto
 wrapt==1.10.11            # via aws-xray-sdk
 xmltodict==0.11.0         # via moto
 yamole==2.1.5
