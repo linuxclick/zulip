@@ -29,4 +29,4 @@ sphinx-rtd-theme==0.4.1
 sphinx==1.7.6
 sphinxcontrib-websupport==1.0.1  # via sphinx
 typing==3.6.4
-urllib3==1.22             # via requests
+urllib3==2.6.0             # via requests
