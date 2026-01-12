@@ -151,7 +151,7 @@ requests[security]==2.18.4  # via aws-xray-sdk, docker, matrix-client, moto, pre
 responses==0.9.0          # via moto
 rsa==3.4.2
 s3transfer==0.1.11        # via boto3
-scrapy==1.5.1
+scrapy==2.14.0
 service-identity==17.0.0  # via scrapy
 sh==1.11                  # via gitlint
 simplegeneric==0.8.1      # via ipython
@@ -178,12 +178,12 @@ twisted==18.4.0
 typed-ast==1.1.0          # via mypy
 typing==3.6.4
 uritemplate==3.0.0
-urllib3==1.22             # via requests, transifex-client
+urllib3==2.6.3             # via requests, transifex-client
 virtualenv-clone==0.3.0
 w3lib==1.18.0             # via parsel, scrapy
 wcwidth==0.1.7            # via prompt-toolkit
 websocket-client==0.44.0  # via docker
-werkzeug==0.12.2          # via moto
+werkzeug==3.1.5          # via moto
 wrapt==1.10.11            # via aws-xray-sdk
 xmltodict==0.11.0         # via moto
 yamole==2.1.5
